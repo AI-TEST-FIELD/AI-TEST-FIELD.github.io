@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e429902.css",
+    "main.js": "/static/js/main.2d813b8c.js",
+    "static/media/Schild_AI_TEST_FIELD.png": "/static/media/Schild_AI_TEST_FIELD.3ed43ec535aa6db199a7.png",
+    "static/media/aitf_drone_processed.jpg": "/static/media/aitf_drone_processed.9740cf6ce182f816e3aa.jpg",
+    "static/media/Schild_AI_TEST_FIELD.pdf": "/static/media/Schild_AI_TEST_FIELD.0c6d5c15dd454572cc4b.pdf",
+    "static/media/GIL.pdf": "/static/media/GIL.a0339b01bc06914c4514.pdf",
+    "static/media/traktor_mensch_kuh.png": "/static/media/traktor_mensch_kuh.7fd941fe2a3163840eef.png",
+    "static/media/HSOS.png": "/static/media/HSOS.b7f39bc91c2141b44650.png",
+    "static/media/dfki.png": "/static/media/dfki.3fc195355e2d74704dbd.png",
+    "static/media/ecmr_2021.png": "/static/media/ecmr_2021.af1321601fc046a0c5ba.png",
+    "static/media/aitf.png": "/static/media/aitf.e3ebb4c57d7b21f8fd88.png",
+    "static/media/KombilogoBMEL.png": "/static/media/KombilogoBMEL.35629e8917f5b1a25d74.png",
+    "static/media/niedersaechsisches_ministerium_volkswagen.png": "/static/media/niedersaechsisches_ministerium_volkswagen.3718af0c8a54798490fa.png",
+    "static/media/GIL.png": "/static/media/GIL.19e908cb31828e297b0d.png",
+    "static/media/Krone.png": "/static/media/Krone.dcc1a5eb1a3dcc63f953.png",
+    "index.html": "/index.html",
+    "main.8e429902.css.map": "/static/css/main.8e429902.css.map",
+    "main.2d813b8c.js.map": "/static/js/main.2d813b8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e429902.css",
+    "static/js/main.2d813b8c.js"
+  ]
+}
