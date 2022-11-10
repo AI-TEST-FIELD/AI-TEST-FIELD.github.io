@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.8e429902.css",
-    "main.js": "/static/js/main.ecd58447.js",
+    "main.js": "/static/js/main.8f941fb4.js",
     "static/js/661.b5d4dbb9.chunk.js": "/static/js/661.b5d4dbb9.chunk.js",
+    "static/media/aitf_demo.mp4": "/static/media/aitf_demo.c448d2369e86337de67e.mp4",
     "static/media/Schild_AI_TEST_FIELD.png": "/static/media/Schild_AI_TEST_FIELD.3ed43ec535aa6db199a7.png",
     "static/media/aitf_drone_processed.jpg": "/static/media/aitf_drone_processed.9740cf6ce182f816e3aa.jpg",
-    "static/media/Schild_AI_TEST_FIELD.pdf": "/static/media/Schild_AI_TEST_FIELD.0c6d5c15dd454572cc4b.pdf",
     "static/media/aitf_ortho_regions.png": "/static/media/aitf_ortho_regions.97975075c5670b5aed1a.png",
-    "static/media/GIL.pdf": "/static/media/GIL.a0339b01bc06914c4514.pdf",
     "static/media/traktor_mensch_kuh.png": "/static/media/traktor_mensch_kuh.7fd941fe2a3163840eef.png",
     "static/media/landtechnik.jpg": "/static/media/landtechnik.333941154bc91321f070.jpg",
     "static/media/HSOS.png": "/static/media/HSOS.b7f39bc91c2141b44650.png",
@@ -20,11 +19,11 @@
     "static/media/Krone.png": "/static/media/Krone.dcc1a5eb1a3dcc63f953.png",
     "index.html": "/index.html",
     "main.8e429902.css.map": "/static/css/main.8e429902.css.map",
-    "main.ecd58447.js.map": "/static/js/main.ecd58447.js.map",
+    "main.8f941fb4.js.map": "/static/js/main.8f941fb4.js.map",
     "661.b5d4dbb9.chunk.js.map": "/static/js/661.b5d4dbb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e429902.css",
-    "static/js/main.ecd58447.js"
+    "static/js/main.8f941fb4.js"
   ]
 }
