@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.50ba8513.css",
-    "main.js": "/static/js/main.a5bf928e.js",
+    "main.js": "/static/js/main.8ba371bd.js",
     "static/js/661.b5d4dbb9.chunk.js": "/static/js/661.b5d4dbb9.chunk.js",
     "static/media/aitf_demo_small.mp4": "/static/media/aitf_demo_small.14ee71bd05b9387a7610.mp4",
-    "static/media/Schild_AI_TEST_FIELD.png": "/static/media/Schild_AI_TEST_FIELD.3ed43ec535aa6db199a7.png",
     "static/media/Schild_AI_TEST_FIELD.pdf": "/static/media/Schild_AI_TEST_FIELD.0c6d5c15dd454572cc4b.pdf",
+    "static/media/Schild_AI_TEST_FIELD-min.jpg": "/static/media/Schild_AI_TEST_FIELD-min.87e11340219462f39867.jpg",
     "static/media/aitf_drone_processed-min.jpg": "/static/media/aitf_drone_processed-min.f5140048f2b0f30b5445.jpg",
     "static/media/aitf_ortho_regions.png": "/static/media/aitf_ortho_regions.97975075c5670b5aed1a.png",
+    "static/media/Krone.png": "/static/media/Krone.46555898698b4250b9fd.png",
     "static/media/traktor_mensch_kuh.png": "/static/media/traktor_mensch_kuh.7fd941fe2a3163840eef.png",
+    "static/media/niedersaechsisches_ministerium_volkswagen.png": "/static/media/niedersaechsisches_ministerium_volkswagen.34aad6d2f2bb8d52ac7d.png",
     "static/media/landtechnik.jpg": "/static/media/landtechnik.333941154bc91321f070.jpg",
     "static/media/HSOS.png": "/static/media/HSOS.b7f39bc91c2141b44650.png",
     "static/media/dfki.png": "/static/media/dfki.3fc195355e2d74704dbd.png",
     "static/media/ecmr_2021.png": "/static/media/ecmr_2021.af1321601fc046a0c5ba.png",
     "static/media/aitf.png": "/static/media/aitf.e3ebb4c57d7b21f8fd88.png",
     "static/media/KombilogoBMEL.png": "/static/media/KombilogoBMEL.35629e8917f5b1a25d74.png",
-    "static/media/niedersaechsisches_ministerium_volkswagen.png": "/static/media/niedersaechsisches_ministerium_volkswagen.3718af0c8a54798490fa.png",
     "static/media/GIL.png": "/static/media/GIL.19e908cb31828e297b0d.png",
-    "static/media/Krone.png": "/static/media/Krone.dcc1a5eb1a3dcc63f953.png",
     "index.html": "/index.html",
     "main.50ba8513.css.map": "/static/css/main.50ba8513.css.map",
-    "main.a5bf928e.js.map": "/static/js/main.a5bf928e.js.map",
+    "main.8ba371bd.js.map": "/static/js/main.8ba371bd.js.map",
     "661.b5d4dbb9.chunk.js.map": "/static/js/661.b5d4dbb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50ba8513.css",
-    "static/js/main.a5bf928e.js"
+    "static/js/main.8ba371bd.js"
   ]
 }
