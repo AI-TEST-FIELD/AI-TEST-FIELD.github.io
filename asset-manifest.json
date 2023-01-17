@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.50ba8513.css",
-    "main.js": "/static/js/main.68685957.js",
+    "main.js": "/static/js/main.5ecbe8e3.js",
     "static/js/661.ecb08390.chunk.js": "/static/js/661.ecb08390.chunk.js",
     "static/media/aitf_demo_small.mp4": "/static/media/aitf_demo_small.14ee71bd05b9387a7610.mp4",
     "static/media/Schild_AI_TEST_FIELD.pdf": "/static/media/Schild_AI_TEST_FIELD.0c6d5c15dd454572cc4b.pdf",
@@ -20,11 +20,11 @@
     "static/media/KombilogoBMEL.png": "/static/media/KombilogoBMEL.35629e8917f5b1a25d74.png",
     "index.html": "/index.html",
     "main.50ba8513.css.map": "/static/css/main.50ba8513.css.map",
-    "main.68685957.js.map": "/static/js/main.68685957.js.map",
+    "main.5ecbe8e3.js.map": "/static/js/main.5ecbe8e3.js.map",
     "661.ecb08390.chunk.js.map": "/static/js/661.ecb08390.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50ba8513.css",
-    "static/js/main.68685957.js"
+    "static/js/main.5ecbe8e3.js"
   ]
 }
